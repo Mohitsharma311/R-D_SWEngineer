@@ -1,0 +1,7 @@
+1) mkdir ~/test_new 
+
+2) chmod 000 ~/test_new
+
+3) Will not work as permissions are removed . Permission Denied
+
+4) Will not work as permissions are removed . Permission Denied
